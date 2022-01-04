@@ -1,0 +1,23 @@
+.blog{
+  background-color:gold;
+  border: 2px solid rgba(67, 151, 11, 0.534);
+  border-radius: 10px;
+  margin: 40px 10px 100px 200px; /* 1 value: same value 4 side; 2 value: 1st value: top & bottom, 2nd value: 2 side; 3 value: 1st & last value: top & bottom, middle value: side; 4 value: top to clockwise   */
+  /* margin-top: 2px; */
+  /* margin-bottom: 2px; */
+  /* margin-left: 2px; */
+  /* margin-right: 2px; */
+  padding: 10px 20px 30px 10px;
+
+}
+.writter{
+  color: violet;
+}
+
+strong{
+  display: block;
+}
+
+h4{
+  display: inline;
+}
